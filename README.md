@@ -9,7 +9,7 @@
 
 ---
 
-## Install (recommended: Docker)
+## Install
 **Docker (recommended):**
 ```bash
 docker pull flaresolverr/flaresolverr
