@@ -117,7 +117,7 @@ print(response.text)
 
 ---
 
-## Pros & Cons (brief)
+## Pros & Cons
 **Pros:** quick, minimal setup for many Cloudflare challenges; works out of the box.  
 **Cons:** heavy resource usage (each request may spawn a browser), not ideal at huge scale, and cannot solve CAPTCHAs.
 
