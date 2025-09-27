@@ -1,13 +1,8 @@
 # FlareSolverr 2025: The Ultimate Guide to Bypassing Cloudflare
 
-**Author:** Vilius Dumcius  
-**Last updated:** January 27, 2025 • ~7 min read
-
-FlareSolverr is a proxy-like server built on Selenium and UndetectedChromeDriver that helps bypass many Cloudflare challenges. It receives POST requests describing what to browse, runs an automated browser session, and returns the resulting HTML and cookies. Note: FlareSolverr cannot solve CAPTCHAs.
-
 ---
 
-## How it works (short)
+## How it works
 - FlareSolverr runs as a background server and accepts JSON POST payloads.  
 - Each request spins up an automated browser (Undetected Chrome) to visit the target URL.  
 - If Cloudflare challenges are solved, FlareSolverr returns the HTML and cookies. If a CAPTCHA appears, it fails.
