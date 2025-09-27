@@ -58,7 +58,7 @@ Run with `docker-compose up -d` after creating the file.
 ## Usage: send POST requests to FlareSolverr
 Below are two verbatim Python examples taken from the article. Each example demonstrates sending a JSON payload to the FlareSolverr HTTP API. The first is a basic request; the second includes a custom `userAgent` field.
 
-### Example 1 — Basic FlareSolverr request
+### Example 1 - Basic FlareSolverr request
 *Send a POST to `http://localhost:8191/v1` with a `request.get` command and a timeout.*
 ```python
 import requests
@@ -86,7 +86,7 @@ response = requests.post(url, data=json.dumps(data), headers=headers)
 print(response.text)
 ```
 
-### Example 2 — Add a custom User-Agent
+### Example 2 - Add a custom User-Agent
 *Same request but include a `userAgent` field in the payload to specify the browser identity.*
 ```python
 import requests
