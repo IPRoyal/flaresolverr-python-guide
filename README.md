@@ -1,5 +1,5 @@
 # FlareSolverr 2025: The Ultimate Guide to Bypassing Cloudflare
-<img width="2180" height="550" alt="GitHub Banner" src="https://github.com/user-attachments/assets/2971d0dd-eb34-45b3-9399-cb6196621a3f" />
+<a href="https://iproyal.com/proxies/"><img width="2180" height="550" alt="GitHub Banner" src="https://github.com/user-attachments/assets/c857fdbc-882d-4089-af87-cfa93408311d"></img></a>
 
 ---
 
